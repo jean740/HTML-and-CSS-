@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+  <ol>
+    <li>Ford</li>
+	<li>Auldi</li>
+	<li>Citreon</li>
+	<li>Chevy</li>
+	<li>Dodge</li>
+  </ol>
+  
+ol {
+	  list-style-type: upper-roman;
+} 
+    <li>Ford</li>
+	<li>Auldi</li>
+	<li>Citreon</li>
+	<li>Chevy</li>
+	<li>Dodge</li>
+  </ol>
+  
+  <ul>
+    <li>Restuarnt</li>
+	<li>Grocery Store</li>
+	<li>Gas Station</li>
+	<li>Pharmacy</li>
+  </ul>
+  
+ul {
+	list-style-type: square;
+}
+    <li>Restuarnt</li>
+	<li>Grocery Store</li>
+	<li>Gas Station</li>
+	<li>Pharmacy</li>
+  </ul>
+</html>

@@ -1,0 +1,19 @@
+<style>
+    #nav_bar a { 
+        padding: 26px;
+        font-weight:bold;
+        float:left;
+        color:#d0d0d0; 
+        background-color:#0000a0;
+    }
+
+    #nav_bar a:hover { 
+        color:#ffffff; 
+        background-color:#000060; 
+    }
+
+    #nav_bar a:active { 
+        color:#f0f0f0; 
+        background-color:#00ff00; 
+    }
+</style>

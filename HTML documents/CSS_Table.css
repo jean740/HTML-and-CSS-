@@ -1,0 +1,18 @@
+table {
+    border: 2px solid DarkGoldenRod;
+}
+
+td:hover {
+    background-color: DarkGray;
+ 	color: Black;
+|}
+
+tr, th {
+    background-color: Bisque;
+	color: DarkMagenta;
+}
+
+tr, td {
+	background-color: FireBrick;
+	color: GhostWhite;
+}

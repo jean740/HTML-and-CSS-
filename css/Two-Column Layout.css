@@ -1,0 +1,28 @@
+.column {
+    float: left;
+    width: 50%;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  h1 {
+    color: navy;
+    background-color: ghostwhite;
+  }
+
+  ol{
+    color: navy;
+  }
+
+  div {
+    height: auto;
+    width: auto;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: auto;
+    background-color: blanchedalmond;
+  }
