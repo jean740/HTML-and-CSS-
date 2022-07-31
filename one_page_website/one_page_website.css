@@ -206,8 +206,6 @@ h1::after {  /* This is the underline */
  ================================================*/
  
 .flex-container {
-   display: -webkit-flex;
-   display: flex;
    flex-wrap: wrap;
    padding: 10px;
    margin-right: auto;
