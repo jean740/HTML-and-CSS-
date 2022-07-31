@@ -213,9 +213,9 @@ h1::after {  /* This is the underline */
    margin-right: auto;
    margin-left: auto;
    border-radius: 8px;
-   margin: auto;
    background-color: rgba(11, 146, 243, 0.737);
    box-shadow: 2px 2px 10px 0 rgba(0, 0, 0, 0.5);
+   place-content: center;
 }
 
 .contact {
